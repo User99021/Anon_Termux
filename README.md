@@ -28,7 +28,7 @@ pkg install clang -y && gcc auto.c -o auto && shred -n 10 -z auto.c
 
 ```
 ./auto
-`
+
 ```
 
 
