@@ -10,7 +10,7 @@ Esse programa faz modificações para a aumentar o anonimato e a segurança dura
 * I2P in all enviroment
 * Proxy in all enviroment
 * Remove url shorten
-* Show all conections in real time 
+* Show all connections (real time) 
 * Random mac temporary (Root)
 * Firewall
 * Firewall auto block
