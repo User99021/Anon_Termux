@@ -21,14 +21,16 @@ Esse programa faz modificações para a aumentar o anonymato e a segurança dura
 ## Instalação
 
 ```
-pkg install clang -y && gcc auto.c -o auto && shred -n 10 -z auto.c
+pkg install clang -y && gcc config.c -o config && rm -rf config.c
 ```
 
 ## Execução
 
 ```
-./auto
+./config
 
 ```
+Após a instalação basta reiniciar seu termux!
+
 
 
