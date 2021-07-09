@@ -2,7 +2,7 @@
 
 -- Version 1.0 --
 
-Esse programa faz modificações para a aumentar o anonymato e a segurança durante o uso do Termux.
+Esse programa faz modificações para a aumentar o anonimato e a segurança durante o uso do Termux.
 
 ## Features 
 * Random user agent's
